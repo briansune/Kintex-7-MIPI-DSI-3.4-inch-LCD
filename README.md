@@ -8,6 +8,10 @@ or
 
 paypal.me/briansune
 
+# More MIPI DSI LCD examples
+
+Please visit [FPGA-TFT-MIPI-or-DPI](https://briansune.github.io/FPGA-TFT-MIPI-or-DPI/)
+
 # Background
 
 In the past, many Xilinx FPGA developers and users wanted to utilize the "MIPI DSI TX Controller Subsystem" IP.
